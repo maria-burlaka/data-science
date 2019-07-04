@@ -3,16 +3,18 @@
 
 # # App Store and Google Play
 # 
-# This project is about
+# The aim of this project is to find out how popular apps are depending on their genres. Here were used data sets 
+# from App Store and Google Play. Data was cleaned, prepared, genre frequencies were found. Using amount of installs
+# and amount of reviews, there were found out relations between genre and inquiry for apps.
 # 
 # Links for data and documentation:
 # - App Store - [Link](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps/home)
 # - Google Play - [Link](https://www.kaggle.com/lava18/google-play-store-apps/home)
 # 
 # Goals:
-# - get some practice
-# - get additional knowledge
-# - improve my data science skills
+# - to get some practice
+# - to get additional knowledge
+# - to improve data science skills
 
 # In[14]:
 
