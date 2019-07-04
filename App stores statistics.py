@@ -27,8 +27,8 @@ from collections import OrderedDict
 # In[2]:
 
 
-open_as = open('app-store-apple-data-set-10k-apps/AppleStore.csv')
-open_gp = open(r'google-play-store-apps/googleplaystore.csv', encoding="utf-8")
+open_as = open('AppleStore.csv')
+open_gp = open(r'googleplaystore.csv', encoding="utf-8")
 
 as_file = list(reader(open_as))
 as_data = as_file[1:]
